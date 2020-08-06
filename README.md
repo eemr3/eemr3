@@ -29,5 +29,8 @@
   </h2>
   <p>Meu nome é Emerson Moreira, amante de TI e em busca de aprender a programar.</p>
   - 🌱 Atualmente, estou aprendendo HMTL / CSS / JS / ReactJs
-  </article>
+  </article><br/><br/>
   
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eemr3&show_icons=true&theme=dracula)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eemr3&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
