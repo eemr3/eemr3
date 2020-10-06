@@ -1,36 +1,52 @@
-## Bem vindo ao meu repositório!
+# Olá, eu sou Emerson Moreira
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-  <h1><a id="user-content-man_technologist-lucas-bittencourt" class="anchor" aria-hidden="true"
-      href="#man_technologist-lucas-bittencourt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1"
-        width="16" height="16" aria-hidden="true">
-        <path fill-rule="evenodd"
-          d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-        </path>
-      </svg></a>
-    <g-emoji class="g-emoji" alias="man_technologist"
-      fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>
-    Emerson Moreira
-  </h1>
-  <p>
-    <a href="https://www.linkedin.com/in/emerson-moreira/" rel="nofollow"><img
-        src="https://camo.githubusercontent.com/690733eed2d666fbb6b80a8534e5eda24197f5e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c756361732d62697474656e636f7572742f"
-        alt="Linkedin Badge"
-        data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://https://www.linkedin.com/in/emerson-moreira//"
-        style="max-width:100%;"></a>
-    </p>
-  <h2><a id="user-content-olá-" class="anchor" aria-hidden="true" href="#olá-"><svg class="octicon octicon-link"
-        viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-        <path fill-rule="evenodd"
-          d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-        </path>
-      </svg></a>Olá! <g-emoji class="g-emoji" alias="wave"
-      fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-  </h2>
-  <p>Meu nome é Emerson Moreira, sou casado e pai de 2 lindos filhos, sou amante de TI e estou em busca de aprender a programar. </p>
-  - 🌱 Atualmente, estou aprendendo HMTL / CSS / JS / ReactJs
-  </article><br/><br/>
-  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eemr3&show_icons=true&theme=dracula)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eemr3&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+```ruby
+class Programmer
+  def initialize()
+```
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/emerson-moreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emersonmoreira" height="30" width="40" /></a>
+<a href="https://fb.com/Archimonder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="emersonmoreira" height="30" width="40" /></a>
+<a href="https://instagram.com/emerson_moreira_fsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emersonmoreira" height="30" width="40" /></a>
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eemr3" alt="emer" /> </p>
+
+<h3>Open Source Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="#"><b>Coming soon</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="rails" width="40" height="40"/> </a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="ruby" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="aws" width="40" height="40"/> </a> 
+	<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="bash" width="40" height="40"/> </a> 
+	<a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="docker" width="40" height="40"/> </a> 
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemr3&layout=compact" alt="emersonmoreira" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eemr3&show_icons=true" alt="emersonmoreira" /></p>
+
+```ruby
+  end
+end
+```
