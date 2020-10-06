@@ -27,7 +27,7 @@
       </svg></a>Olá! <g-emoji class="g-emoji" alias="wave"
       fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
   </h2>
-  <p>Meu nome é Emerson Moreira, amante de TI e em busca de aprender a programar.</p>
+  <p>Meu nome é Emerson Moreira, sou amante de TI e em busca de aprender a programar. No momento estou aprendento HTML, CSS, JS, React, casado e pai de doi filhos lindos.</p>
   - 🌱 Atualmente, estou aprendendo HMTL / CSS / JS / ReactJs
   </article><br/><br/>
   
