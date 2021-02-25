@@ -36,7 +36,7 @@ class Programmer
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3" target="_blank"> <img src="https://raw.githubusercontent.com/eemr3/imagens/master/css3.svg" alt="css" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/pt-BR/docs/Archive/CSS3" target="_blank"> <img src="https://raw.githubusercontent.com/eemr3/imagens/master/css3.svg" alt="css" width="50" height="50"/> </a> 
 	<a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a> 
 	<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-Js" width="40" height="40"/> </a> 
 	<a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node-Js" width="40" height="40"/> </a> 
