@@ -32,41 +32,7 @@ class Programmer
 	<td><a href="https://github.com/lucasstecher/STUN/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lucasstecher/STUN"></a></td>
 	<td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/lucasstecher/lucasstecher"></d>
     </tr>
-    <tr>
-	<td><a href="https://github.com/tryber/sd-016-a-project-lessons-learned/tree/emerson-moreira-lessons-learned"><b>Lessons Learned</b></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-lessons-learned/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tryber/sd-016-a-project-lessons-learned"></a></a></td>
-	    <td><a href="https://github.com/tryber/sd-016-a-project-lessons-learned/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/tryber/sd-016-a-project-lessons-learned"></a></a>
-	<td><a href="https://github.com/tryber/sd-016-a-project-lessons-learned/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tryber/sd-016-a-project-lessons-learned"></a></td>
-	<td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tryber/sd-016-a-project-lessons-learned"></d>
-    </tr>
-    <tr>
-	<td><a href="https://github.com/tryber/sd-016-a-project-playground-functions/tree/emerson-moreira-playground-functions"><b>Playground Functions</b></a></td> 
-	<td><a href="https://github.com/tryber/sd-016-a-project-playground-functions/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tryber/sd-016-a-project-playground-functions"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-playground-functions/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/tryber/sd-016-a-project-playground-functions"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-playground-functions/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tryber/sd-016-a-project-playground-functions"></a></td>
-	<td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tryber/sd-016-a-project-playground-functions"></td>
-    </tr>
-        <tr>
-	<td><a href="https://github.com/tryber/sd-016-a-project-pixels-art/tree/emerson-moreira-project-pixels-art"><b>Project Pixels Art</b></a></td> 
-	<td><a href="https://github.com/tryber/sd-016-a-project-pixels-art/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tryber/sd-016-a-project-pixels-art"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-pixels-art/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/tryber/sd-016-a-project-pixels-art"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-pixels-art/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tryber/sd-016-a-project-pixels-art"></a></td>
-	<td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tryber/sd-016-a-project-pixels-art"></td>
-    </tr>
-    <tr>
-	<td><a href="https://github.com/tryber/sd-016-a-project-pixels-art/tree/emerson-moreira-project-pixels-art"><b>Projeto To Do List</b></a></td> 
-	<td><a href="https://github.com/tryber/sd-016-a-project-todo-list/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tryber/sd-016-a-project-todo-list"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-todo-list/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/tryber/sd-016-a-project-todo-list"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-todo-list/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tryber/sd-016-a-project-todo-list"></a></td>
-	<td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tryber/sd-016-a-project-todo-list"></td>
-    </tr>
-     <tr>
-	<td><a href="https://github.com/tryber/sd-016-a-project-trybewarts/tree/emerson-moreira-trybewarts"><b>Projeto Trybewarts</b></a></td> 
-	<td><a href="https://github.com/tryber/sd-016-a-project-trybewarts/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tryber/sd-016-a-project-trybewarts"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-trybewarts/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/tryber/sd-016-a-project-trybewarts"></a></td>
-	<td><a href="https://github.com/tryber/sd-016-a-project-trybewarts/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tryber/sd-016-a-project-trybewarts"></a></td>
-	<td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tryber/sd-016-a-project-trybewarts"></td>
-    </tr>
+    
   </tbody>
 </table>
 
