@@ -1,4 +1,5 @@
 # Olá, eu sou Emerson Moreira
+<p>Sou estudante de desenvolvimento web na Trybe em transição de carreira, com experiência anterior como assistente administrativo. Com muita vontade de contribuir através da tecnologia para um mundo melhor, tenho foco em me tornar um desenvolvedor Front-End. Realizei projetos nessa trajetória na Trybe, utilizando as tecnologias como: ReactJs, JavaScript, HTML5, CSS3, Bootstrap, GIT, Github e Docker.</p><br/>
 
 ```ruby
 class Programmer
