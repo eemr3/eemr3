@@ -1,5 +1,14 @@
 # Olá, eu sou Emerson Moreira
-<p>Sou estudante de desenvolvimento web na Trybe em transição de carreira, com experiência anterior como assistente administrativo. Com muita vontade de contribuir através da tecnologia para um mundo melhor, tenho foco em me tornar um desenvolvedor Front-End. Realizei projetos nessa trajetória na Trybe, utilizando as tecnologias como: ReactJs, JavaScript, HTML5, CSS3, Bootstrap, GIT, Github e Docker.</p><br/>
+<p>Desenvolvedor Web Full Stack Jr.
+
+Sou apaixonado por tecnologia , principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, e culturas que engajam e impactam na vida de outras pessoas, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.
+
+HardSkills:
+Front-end: react, redux com react, context api, react hooks, router, jest.
+
+Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, Mocha, Chai e Sinon, TypeScript, POO, SOLID, conceitos de CI/CD, Sequelize, TypeORM.
+
+Tive o prezer de participar de um mentoria onde pude ter contato com o Ruby on Rails..</p><br/>
 
 ```ruby
 class Programmer
