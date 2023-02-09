@@ -5,9 +5,9 @@
 Sou apaixonado por tecnologia , principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, e culturas que engajam e impactam na vida de outras pessoas, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.
 
 HardSkills:
-Front-end: React, Redux, Context Api, React Hooks, Router, Jest, Nextjs.
+Front-end: react, redux com react, context api, react hooks, router, jest.
 
-Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, Nestjs, Mocha, Chai e Sinon, TypeScript, POO, SOLID, conceitos de CI/CD, Sequelize, TypeORM.
+Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, Mocha, Chai e Sinon, TypeScript, POO, SOLID, conceitos de CI/CD, Sequelize, TypeORM.
 
 Tive o prezer de participar de um mentoria onde pude ter contato com o Ruby on Rails..</p><br/>
 
@@ -59,56 +59,58 @@ class Programmer
 </table>
 
  <h3 align="left">Languages and Tools:</h3>
-<div style="margin-top: 10px; width: 70%">
-      <a href="https://git-scm.com/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-          alt=""
-        />
-      </a>
-      <a href="https://docs.github.com/pt" target="_blank">
-        <img
-          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-          alt=""
-        />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-        <img
-          src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-          alt=""
-        />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/css" target="_blank">
-        <img
-          src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-          alt=""
-        />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank">
-        <img
-          src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-          alt=""
-        />
-      </a>
-      <a href="https://www.typescriptlang.org/docs/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-          alt=""
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-          alt=""
-        />
-      </a>
-      <a href="https://nodejs.org/en/docs/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-          alt=""
-        />
-      </a>
-      <div style="margin-top: 10px">
+ <div style="margin-top: 10px; width: 70%">
+      <div>
+        <a href="https://git-scm.com/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            alt=""
+          />
+        </a>
+        <a href="https://docs.github.com/pt" target="_blank">
+          <img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt=""
+          />
+        </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+          <img
+            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            alt=""
+          />
+        </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/css" target="_blank">
+          <img
+            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+            alt=""
+          />
+        </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript" target="_blank">
+          <img
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+            alt=""
+          />
+        </a>
+        <a href="https://www.typescriptlang.org/docs/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+            alt=""
+          />
+        </a>
+        <a href="https://reactjs.org/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+            alt=""
+          />
+        </a>
+        <a href="https://nodejs.org/en/docs/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+            alt=""
+          />
+        </a>
+      </div>
+      <div style="margin-top: 5px">
         <a href="https://nextjs.org/" target="_blank">
           <img
             src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
