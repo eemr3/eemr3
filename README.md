@@ -1,6 +1,6 @@
 # Olá, eu sou Emerson Moreira
 
-<p>Desenvolvedor Web Full Stack Jr.
+<p>Desenvolvedor Web
 
 Sou apaixonado por tecnologia , principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, e culturas que engajam e impactam na vida de outras pessoas, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.
 
