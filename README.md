@@ -61,18 +61,6 @@ class Programmer
  <h3 align="left">Languages and Tools:</h3>
  <div style="margin-top: 10px; width: 70%">
       <div>
-        <a href="https://git-scm.com/" target="_blank">
-          <img
-            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-            alt=""
-          />
-        </a>
-        <a href="https://docs.github.com/pt" target="_blank">
-          <img
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-            alt=""
-          />
-        </a>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
           <img
             src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -109,8 +97,6 @@ class Programmer
             alt=""
           />
         </a>
-      </div>
-      <div style="margin-top: 5px">
         <a href="https://nextjs.org/" target="_blank">
           <img
             src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
@@ -123,6 +109,20 @@ class Programmer
             alt=""
           />
         </a>
+      </div>
+      <div style="margin-top: 5px">
+        <a href="https://git-scm.com/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            alt=""
+          />
+        </a>
+        <a href="https://docs.github.com/pt" target="_blank">
+          <img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt=""
+          />
+        </a>        
         <a href="https://redux.js.org/" target="_blank">
           <img
             src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
