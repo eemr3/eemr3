@@ -16,7 +16,11 @@ class Programmer
   def initialize()
 ```
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emerson-moreira/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/eemr3) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Archimonder) [<img src = "https://img.shields.io/badge/Yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white">](eemr3@yahoo.com.br)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emerson-moreira/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/eemr3) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Archimonder)
+<a href="mailto:eemr3@yahoo.com.br"
+        ><img
+          src="https://img.shields.io/badge/Yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white"
+      /></a>
 
 ---
 
