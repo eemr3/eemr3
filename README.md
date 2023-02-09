@@ -108,7 +108,7 @@ class Programmer
           alt=""
         />
       </a>
-      <div>
+      <div style="margin-top: 10px">
         <a href="https://nextjs.org/" target="_blank">
           <img
             src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
