@@ -1,13 +1,13 @@
 # Olá, eu sou Emerson Moreira
 
-<p>Desenvolvedor Web Full Stack Jr.
+<p>Desenvolvedor Web Full Stack.
 
-Sou apaixonado por tecnologia , principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, e culturas que engajam e impactam na vida de outras pessoas, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.
+Olá! Sou um entusiasta do desenvolvimento web com paixão por explorar novas tecnologias e metodologias para elevar a qualidade do meu código. Minha busca contínua por código limpo e legível reflete meu comprometimento com a excelência técnica.
 
 HardSkills:
-Front-end: react, redux com react, context api, react hooks, router, jest.
+<p>Front-end: React, Redux com React, Context Api, React Hooks, Router, Nextjs, Tailwindcss, Jest.</p>
 
-Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, Mocha, Chai e Sinon, TypeScript, POO, SOLID, conceitos de CI/CD, Sequelize, TypeORM.
+<p>Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, NestJs, Mocha, Chai e Sinon, TypeScript, POO, SOLID, Sequelize, TypeORM, Prisma.</p>
 
 Tive o prezer de participar de um mentoria onde pude ter contato com o Ruby on Rails..</p><br/>
 
