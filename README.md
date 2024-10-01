@@ -91,6 +91,12 @@ class Programmer
             alt=""
           />
         </a>
+	 <a href="https://nestjs.com/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+            alt=""
+          />
+        </a>
       </div>
       <div style="margin-top: 5px">
         <a href="https://git-scm.com/" target="_blank">
