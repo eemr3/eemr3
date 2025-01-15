@@ -67,6 +67,12 @@ class Programmer
             alt=""
           />
         </a>
+	 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/overview" target="_blank">
+          <img
+            src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"
+            alt=""
+          />
+        </a>
         <a href="https://reactjs.org/" target="_blank">
           <img
             src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
@@ -76,6 +82,12 @@ class Programmer
         <a href="https://nodejs.org/en/docs/" target="_blank">
           <img
             src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+            alt=""
+          />
+        </a>
+	<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/overview" target="_blank">
+          <img
+            src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge"
             alt=""
           />
         </a>
