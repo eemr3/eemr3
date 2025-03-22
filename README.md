@@ -7,7 +7,7 @@ Olá! Sou um entusiasta do desenvolvimento web com paixão por explorar novas te
 HardSkills:
 <p>Front-end: React, Redux com React, Context Api, React Hooks, Router, Nextjs, Tailwindcss, Jest.</p>
 
-<p>Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, NestJs, TypeScript,C#, .Net, AspNet, POO, SOLID, Sequelize, Prisma, TypeORM.</p>
+<p>Back-end: Docker, MySQL, Postgres, MongoDB, Node.js, Express, NestJs, TypeScript, C#, .Net, AspNet, POO, SOLID, Sequelize, Prisma, TypeORM.</p>
 
 Tive o prezer de participar de um mentoria onde pude ter contato com o Ruby on Rails..</p><br/>
 
