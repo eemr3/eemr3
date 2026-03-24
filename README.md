@@ -71,8 +71,8 @@ Durante esse período, aprofundei conhecimentos em construção de APIs, organiz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eemr3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemr3&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-master-eemr3.vercel.app/api?username=eemr3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-eemr3.vercel.app/api/top-langs/?username=eemr3&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
