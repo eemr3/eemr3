@@ -61,7 +61,7 @@ Durante esse período, aprofundei conhecimentos em construção de APIs, organiz
 <a href="https://twitter.com/eemr3" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="mailto:eemr3@yahoo.com.br">
+<a href="mailto:emersonmoreira.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
